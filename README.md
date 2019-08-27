@@ -1,4 +1,4 @@
-# vehivulum-test
+# vehivulum-assignment-workout
 
 ## About
 
